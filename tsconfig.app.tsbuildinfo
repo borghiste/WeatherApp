@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/cityitem.tsx","./src/components/citylist.tsx","./src/components/ui/button.tsx","./src/components/ui/inputform.tsx","./src/router/approuter.tsx","./src/routes/error.tsx","./src/routes/home.tsx","./src/routes/notfound.tsx","./src/routes/selectedcity.tsx"],"errors":true,"version":"5.6.2"}
