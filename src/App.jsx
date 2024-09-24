@@ -3,7 +3,7 @@ import {Provider} from 'react-redux'
 import GlobalStyles from './styles/GlobalStyles'
 import { ThemeProvider } from 'styled-components';
 import theme from './styles/theme';
-import { useSelector } from 'react-redux';
+
 
 import AppRouter from './router/AppRouter';
 import store from './store/configureStore';
@@ -18,8 +18,11 @@ import store from './store/configureStore';
 
 
 
+
+
  function App() { 
- 
+  
+
   return(
 
 

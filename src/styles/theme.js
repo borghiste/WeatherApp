@@ -1,6 +1,7 @@
 const theme ={
     primary:'#3f1d6b',
     primarylight:'#8851d0',
+    primarylighter :'#ceaaee',
     sunny:'radial-gradient(circle,#dcb348 0%,#3a78e0 100%)',
     mixed: 'radial-gradient(circle, #7b86ad 0%, #455b6f 100%)',
   cloudy: 'radial-gradient(circle,#989dab 0%,#50575e 100%)',
